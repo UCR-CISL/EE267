@@ -1,2 +1,1 @@
-# EE260
-Introduction to the Self-driving Stack
+# EE260 Introduction to the Self-driving Stack
