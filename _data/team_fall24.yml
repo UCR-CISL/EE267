@@ -1,0 +1,22 @@
+- name: Hang Qiu
+  type: PI
+  web: https://hangqiu.github.io
+  avatar: HangQ.jpg
+  department: ECE & CSE
+  email: hangq@ucr.edu
+  github: https://github.com/hangqiu
+  gscholar: https://scholar.google.com/citations?user=9i_MgykAAAAJ
+  twitter: https://twitter.com/hangqiu
+  facebook: https://facebook.com/hang.qiu.1
+  linkedin: https://www.linkedin.com/in/hang-qiu-a523128a
+  oh: Monday 14:00-15:00
+  location: WCH306
+- name: Rakshith Mahishi
+  type: TA
+  avatar: rakshith.jpeg
+  department: CSE
+  email: rmahi001@ucr.edu
+  github: https://github.com/rakshith911
+  linkedin: https://www.linkedin.com/in/rakshith-mahishi-423442182/
+  oh: Tuesday 11:00-12:00
+  location: B-143
