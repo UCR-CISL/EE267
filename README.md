@@ -1,1 +1,1 @@
-# EE260 Introduction to the Self-driving Stack
+# EE267 Introduction to Autonomous Driving Systems
