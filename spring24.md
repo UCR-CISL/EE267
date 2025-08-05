@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring 2024
+title: 2024 Spring
 ---
 
 {% assign team = site.data.team_spring24 | sort : "name" %}
